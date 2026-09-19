@@ -509,7 +509,7 @@ export default function App() {
               </p>
 
               <p className="text-sm mt-1">
-                Rawalpindi
+                Bahria Town, Rawalpindi, Pakistan
               </p>
             </div>
           </div>
