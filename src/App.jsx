@@ -155,44 +155,36 @@ export default function App() {
       title: "Other Project - View 02",
       img: "/p12.jpg",
     },
-    {
-      id: 13,
-      title: "Other Project - View 03",
-      img: "/p13.jpg",
-    },
+   
     {
       id: 14,
-      title: "Other Project - View 04",
+      title: "Other Project - View 03",
       img: "/p14.jpg",
     },
     {
       id: 15,
-      title: "Other Project - View 05",
+      title: "Other Project - View 04",
       img: "/p15.jpg",
     },
     {
       id: 16,
-      title: "Other Project - View 06",
+      title: "Other Project - View 05",
       img: "/p16.jpg",
     },
-    {
-      id: 17,
-      title: "Other Project - View 07",
-      img: "/p17.jpg",
-    },
+   
     {
       id: 18,
-      title: "Other Project - View 08",
+      title: "Other Project - View 06",
       img: "/p18.jpg",
     },
     {
       id: 19,
-      title: "Other Project - View 09",
+      title: "Other Project - View 07",
       img: "/p19.jpg",
     },
     {
       id: 20,
-      title: "Other Project - View 10",
+      title: "Other Project - View 08",
       img: "/p20.jpg",
     },
   ];
@@ -397,8 +389,7 @@ export default function App() {
               <TypewriterEffect
                 texts={[
                   "Nimra Sarfraz",
-                  "Interior Designer",
-                  "Spatial Architect",
+                  
                 ]}
               />
             </h1>
